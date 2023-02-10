@@ -17,6 +17,6 @@
 
 <resources>
 
-    <string name="btnCapture">capture</string>
+    <string name="btnCapture">hello from bazel</string>
 
 </resources>

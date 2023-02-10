@@ -115,7 +115,7 @@ public class MainActivity extends Activity {
             mCamera.lock();         // take camera access back from MediaRecorder
 
             // inform the user that recording has stopped
-            setCaptureButtonText("Capture");
+            setCaptureButtonText("Hello from bazel");
             isRecording = false;
             releaseCamera();
             // END_INCLUDE(stop_release_media_recorder)
